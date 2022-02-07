@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 Adding a Contribution is important 
 
 ## Deployment
+
+Addig a deployment is Important 
+
+## Release
+
+Adding Release Section is Important
