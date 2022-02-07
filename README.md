@@ -17,3 +17,7 @@ Addig a deployment is Important
 ## Release
 
 Adding Release Section is Important
+
+### Copyright
+
+Adding copyrights 
