@@ -20,4 +20,4 @@ Adding Release Section is Important
 
 ### Copyright
 
-Adding copyrights 
+Adding copyrights , All Rights Reserved
