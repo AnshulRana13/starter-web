@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Adding a Contribution is important 
+Adding a Contribution is important, Please folk this repo before any changes.
 
 ## Deployment
 
