@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, Addig a line for rebase 
+This repository is for showing how Git and GitHub work, Addig a line for rebase, than more changes from my feature branch
 
 ## Purpose
 
